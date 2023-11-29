@@ -12,6 +12,7 @@
 
 <br>
 
+
 ## Contact 
 - skqk321@naver.com
 - +82 10 5883 ****
@@ -29,3 +30,4 @@
 - Data Engineering 
 - Data Science 
 
+![`Footer`](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
