@@ -2,6 +2,10 @@
 
 <br> 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunbi413&show_icons=true&theme=nord)
+
+
+
 ## Languages
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -23,6 +27,4 @@
 - Data Analysis
 - Data Engineering 
 - Data Science 
-
-
 
